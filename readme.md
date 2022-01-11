@@ -18,5 +18,5 @@ local调用hotfix(delgate)|180703700
 ---|:--:
 local内调用|38792568
 hotfix内调用|30208890
-local调用hotfix(delgate)|141151759
+local调用hotfix|141151759
 ---
