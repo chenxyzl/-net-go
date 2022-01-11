@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "094e6733-c2fd-46d9-a17b-cca7b50a0f8e": {
+      "ProjectGuid": "094e6733-c2fd-46d9-a17b-cca7b50a0f8e",
+      "DisplayName": "dotnettest",
+      "ColorIndex": 0
+    },
+    "47887ac4-3e4f-42b3-81a4-2938ddb85c55": {
+      "ProjectGuid": "47887ac4-3e4f-42b3-81a4-2938ddb85c55",
+      "DisplayName": "hotfix",
+      "ColorIndex": 1
+    },
+    "e1408f58-e32a-4c25-bdfa-8828938675f7": {
+      "ProjectGuid": "e1408f58-e32a-4c25-bdfa-8828938675f7",
+      "DisplayName": "hotfix",
+      "ColorIndex": 2
+    },
+    "fe1c1cec-3b82-4ef7-b234-0789a43dc45d": {
+      "ProjectGuid": "fe1c1cec-3b82-4ef7-b234-0789a43dc45d",
+      "DisplayName": "common",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "86637b39-62f2-4ed4-a29e-f8a80fd016a8": {
+      "ProjectGuid": "86637b39-62f2-4ed4-a29e-f8a80fd016a8",
+      "DisplayName": "common",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
