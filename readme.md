@@ -1,4 +1,6 @@
-# net6.0 vs go 热更新函数性能测试的(有1个class或struct参数/无参数性能更高)
+# net6.0 vs go 热更新函数性能测试的(有1个class或struct参数，无参数性能更高)
+go方案: plugin.Open
+c#方案: Assembly.LoadFile
 ---
 ---
 ## net6.0 100000000次函数调用花费时常
