@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnettest", "dotnettest\dotnettest.csproj", "{094E6733-C2FD-46D9-A17B-CCA7B50A0F8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotfix", "hotfix\hotfix.csproj", "{E1408F58-E32A-4C25-BDFA-8828938675F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common", "common\common.csproj", "{86637B39-62F2-4ED4-A29E-F8A80FD016A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{094E6733-C2FD-46D9-A17B-CCA7B50A0F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094E6733-C2FD-46D9-A17B-CCA7B50A0F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094E6733-C2FD-46D9-A17B-CCA7B50A0F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094E6733-C2FD-46D9-A17B-CCA7B50A0F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1408F58-E32A-4C25-BDFA-8828938675F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1408F58-E32A-4C25-BDFA-8828938675F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1408F58-E32A-4C25-BDFA-8828938675F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1408F58-E32A-4C25-BDFA-8828938675F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86637B39-62F2-4ED4-A29E-F8A80FD016A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86637B39-62F2-4ED4-A29E-F8A80FD016A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86637B39-62F2-4ED4-A29E-F8A80FD016A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86637B39-62F2-4ED4-A29E-F8A80FD016A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5190DA48-755D-4CB0-8D76-EB4D3647D692}
+	EndGlobalSection
+EndGlobal
